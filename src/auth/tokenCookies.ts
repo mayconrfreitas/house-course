@@ -1,3 +1,3 @@
 // import cookies from "js-cookie";
 
-export {};
+export { };

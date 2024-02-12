@@ -4,5 +4,5 @@
 // import { loadIdToken } from "src/auth/firebaseAdmin";
 
 export default function Auth() {
-  return <div>Auth</div>;
+	return <div>Auth</div>;
 }

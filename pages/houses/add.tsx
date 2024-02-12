@@ -4,5 +4,5 @@
 // import HouseForm from "src/components/houseForm";
 
 export default function Add() {
-  return <div>Add</div>;
+	return <div>Add</div>;
 }

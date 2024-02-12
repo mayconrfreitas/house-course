@@ -6,4 +6,4 @@
 // import { prisma } from "src/prisma";
 // import { loadIdToken } from "src/auth/firebaseAdmin";
 
-export {};
+export { };

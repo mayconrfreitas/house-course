@@ -11,4 +11,4 @@
 // import initFirebase from "./initFirebase";
 // import { removeTokenCookie, setTokenCookie } from "./tokenCookies";
 
-export {};
+export { };

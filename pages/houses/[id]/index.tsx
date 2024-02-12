@@ -10,5 +10,5 @@
 // } from "src/generated/ShowHouseQuery";
 
 export default function ShowHouse() {
-  return <div>ShowHouse</div>;
+	return <div>ShowHouse</div>;
 }
